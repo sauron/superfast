@@ -134,5 +134,5 @@ DEPENDENCIES
   sass-rails (~> 3.2.3)
   simple_form
   therubyracer (= 0.10.1)
-  twitter-bootstrap-rails (~> 2.0.9)
+  twitter-bootstrap-rails
   uglifier (>= 1.0.3)

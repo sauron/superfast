@@ -18,7 +18,7 @@ group :assets do
 
   # See https://github.com/sstephenson/execjs#readme for more supported runtimes
   gem 'uglifier', '>= 1.0.3'
-  gem 'therubyracer', '0.10.1', :plataform => :ruby
-  gem "twitter-bootstrap-rails", "~> 2.0.9"
+  gem 'therubyracer', '0.10.1', :require => 'v8'
+  gem "twitter-bootstrap-rails"
 end
 
