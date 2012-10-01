@@ -42,7 +42,7 @@ gem "github", ">= 0.7.0", :require => nil, :group => [:development]
 gem "mysql2"
 group :assets do
   gem "twitter-bootstrap-rails"
-  gem "therubyracer"
+  # gem "therubyracer"
 end
 
 gem "simple_form"
